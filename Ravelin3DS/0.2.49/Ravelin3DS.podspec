@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Ravelin3DS"
-  s.version      = "0.2.48"
+  s.version      = "0.2.49"
   s.summary      = "Ravelin 3DS SDK for iOS applications."
   s.description  = "Ravelin 3DS SDK XCFramework for iOS applications."
   s.homepage     = "https://ravelin.com"
