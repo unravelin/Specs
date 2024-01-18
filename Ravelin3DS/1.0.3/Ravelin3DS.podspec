@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license      = "PROPRIETARY"
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
-  s.source       = { :http =>  "https://ravelin.mycloudrepo.io/repositories/threeds2service-ios/release/#{s.version}/Ravelin3DS.xcframework.zip" }
+  s.source       = { :http =>  "https://ravelin.mycloudrepo.io/repositories/threeds2service-ios/release/#{s.version}/non-mergeable/Ravelin3DS.xcframework.zip" }
   s.ios.vendored_frameworks = 'Ravelin3DS.xcframework'
 
 end
